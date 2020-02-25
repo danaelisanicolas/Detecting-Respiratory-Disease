@@ -5,3 +5,5 @@ data/**
 *.py
 /output
 /input
+_config.yml
+*.h5
