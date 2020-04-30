@@ -32,5 +32,5 @@ How to use the notebooks
     -- cnn-part-2-split-to-train-and-test.ipynb
     -- cnn-part-3-create-spectrogram-images.ipynb
     -- cnn-part-4-training-and-modelling-with-vgg16.ipynb
-    -- part-5-training-with-text-data.ipynb (WIP)
+    -- part-5-training-with-text-data.ipynb
     
