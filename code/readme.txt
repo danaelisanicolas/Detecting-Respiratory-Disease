@@ -2,6 +2,8 @@ About the Project
 
 This is my final project in the Data Science and AI course conducted by the Institute of Data in partnership with the University of Technology Sydney.
 
+NOTE: For the purpose of my copyright, some files have been deleted.
+
 ----
 
 About the Data
